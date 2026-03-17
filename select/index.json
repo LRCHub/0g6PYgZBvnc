@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニビイロドロウレ / nibiiro dolore - rin [オリジナル]",
+  "base_artist": "ツミキ",
+  "createdAt": "2026-03-17T06:33:04.024752Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニビイロドロウレ",
+      "artist": "ツミキ",
+      "has_synced": false,
+      "path": "select/pl_01_ニビイロドロウレ_ツミキ.txt"
+    }
+  ]
+}
